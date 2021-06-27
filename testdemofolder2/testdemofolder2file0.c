@@ -10,3 +10,8 @@ void testdemofolder2file0fcn0()
 {
     return;
 }
+
+void testdemofolder2file0fcn1()
+{
+    return;
+}

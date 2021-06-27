@@ -21,3 +21,7 @@ void testdemofolder1file5fcn2()
     return;
 }
 
+void testdemofolder1file5fcn3()
+{
+    return;
+}

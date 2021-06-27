@@ -1,2 +1,7 @@
 
 #include "testdemo.h"
+
+int testdemofolder2file8var0;
+int testdemofolder2file8var1;
+int testdemofolder2file8var2;
+int testdemofolder2file8var3;

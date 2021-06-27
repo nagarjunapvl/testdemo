@@ -5,3 +5,8 @@ int testdemofolder2file2var0;
 int testdemofolder2file2var1;
 int testdemofolder2file2var2;
 int testdemofolder2file2var3;
+
+void testdemofolder2file2fcn0()
+{
+    return;
+}

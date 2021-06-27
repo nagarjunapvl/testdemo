@@ -15,3 +15,9 @@ void testdemofolder2file13fcn1()
 {
     return;
 }
+
+void testdemofolder2file13fcn2()
+{
+    return;
+}
+
